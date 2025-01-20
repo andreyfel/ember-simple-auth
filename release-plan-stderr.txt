@@ -1,0 +1,109 @@
+Warning: unknown package "test-esa"
+Warning: unknown package "classic-test-app"
+Warning: unknown package "test-app"
+Warning: unknown package "test-app"
+Warning: unknown package "test-esa"
+Warning: unknown package "classic-test-app"
+Warning: unknown package "test-app"
+Warning: unknown package "docs"
+Warning: unknown package "classic-test-app"
+Warning: unknown package "test-app"
+Warning: unknown package "classic-test-app"
+Warning: unknown package "test-app"
+Warning: unknown package "test-esa"
+Warning: unknown package "docs"
+# Unlabeled Changes
+
+* `classic-test-app`
+  * [#2557](https://github.com/mainmatter/ember-simple-auth/pull/2557) chore(tests): remove fastboot setup from classic-test-app ([@BobrImperator](https://github.com/BobrImperator))
+* `classic-test-app`, `test-app`, `test-esa`
+  * [#2630](https://github.com/mainmatter/ember-simple-auth/pull/2630) chore(deps): bump ember-try to 3.0.0 ([@BobrImperator](https://github.com/BobrImperator))
+* `ember-simple-auth`
+  * [#2615](https://github.com/mainmatter/ember-simple-auth/pull/2615) feat(ember-simple-auth): remove ember-fetch dependency ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2591](https://github.com/mainmatter/ember-simple-auth/pull/2591) [Chore] use 4.12.1 ember-data for ember-lts-4.12 scenario ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2576](https://github.com/mainmatter/ember-simple-auth/pull/2576) chore: add ember-lts-4.12 scenario ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2546](https://github.com/mainmatter/ember-simple-auth/pull/2546) chore(deps): bump ember-cookies to v1.0.0 ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2485](https://github.com/mainmatter/ember-simple-auth/pull/2485) chore: drop ember-sinon, use sinon directly ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2461](https://github.com/mainmatter/ember-simple-auth/pull/2461) rebrand simplabs to Mainmatter ([@marcoow](https://github.com/marcoow))
+  * [#2324](https://github.com/mainmatter/ember-simple-auth/pull/2324) Fix expected value for fastboot.request.protocol ([@dacoho](https://github.com/dacoho))
+  * [#2359](https://github.com/mainmatter/ember-simple-auth/pull/2359) Always assert the looked up authenticator ([@bertdeblock](https://github.com/bertdeblock))
+* `test-app`
+  * [#2600](https://github.com/mainmatter/ember-simple-auth/pull/2600) chore(test-app): enable embroider build ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2599](https://github.com/mainmatter/ember-simple-auth/pull/2599) refactor(test-app): use LinkTo and this. ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2575](https://github.com/mainmatter/ember-simple-auth/pull/2575) chore: fix fastboot testing environment for ember-data >= 4.12 ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2574](https://github.com/mainmatter/ember-simple-auth/pull/2574) chore(deps): bump fastboot dependencies ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2443](https://github.com/mainmatter/ember-simple-auth/pull/2443) chore: update ember-cli-fastboot-testing to 0.6.0 ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2298](https://github.com/mainmatter/ember-simple-auth/pull/2298) Simplify ember try config ([@marcoow](https://github.com/marcoow))
+  * [#2293](https://github.com/mainmatter/ember-simple-auth/pull/2293) Drop ember bootstrap from modern test app ([@marcoow](https://github.com/marcoow))
+  * [#2290](https://github.com/mainmatter/ember-simple-auth/pull/2290) remove unnecessary ESLint comments ([@marcoow](https://github.com/marcoow))
+* Other
+  * [#2578](https://github.com/mainmatter/ember-simple-auth/pull/2578) Configure Renovate to update testing and fastboot stacks in the same PR ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2552](https://github.com/mainmatter/ember-simple-auth/pull/2552) chore(ci): setup mainmatter/continue-on-error-comment action ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2515](https://github.com/mainmatter/ember-simple-auth/pull/2515) chore: enable ember-default in ci ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2500](https://github.com/mainmatter/ember-simple-auth/pull/2500) chore: add timeouts in Github CI ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2435](https://github.com/mainmatter/ember-simple-auth/pull/2435) fix(renovate.json): use proper path for .json5 preset ([@oscard0m](https://github.com/oscard0m))
+  * [#2418](https://github.com/mainmatter/ember-simple-auth/pull/2418) Use Volta ([@marcoow](https://github.com/marcoow))
+  * [#2379](https://github.com/mainmatter/ember-simple-auth/pull/2379) disable dependabot ([@marcoow](https://github.com/marcoow))
+  * [#2370](https://github.com/mainmatter/ember-simple-auth/pull/2370) ci(renovate): add renovate configuration ([@oscard0m](https://github.com/oscard0m))
+  * [#2369](https://github.com/mainmatter/ember-simple-auth/pull/2369) Add cache to node workflows ([@marcoow](https://github.com/marcoow))
+  * [#2261](https://github.com/mainmatter/ember-simple-auth/pull/2261) Allow Ember canary tests to fail ([@sdebarros](https://github.com/sdebarros))
+  * [#2282](https://github.com/mainmatter/ember-simple-auth/pull/2282) Update README.md ([@mcfiredrill](https://github.com/mcfiredrill))
+  * [#2284](https://github.com/mainmatter/ember-simple-auth/pull/2284) Update README.md ([@mcfiredrill](https://github.com/mcfiredrill))
+  * [#2171](https://github.com/mainmatter/ember-simple-auth/pull/2171) use https to access api in demo ([@marcoow](https://github.com/marcoow))
+  * [#2168](https://github.com/mainmatter/ember-simple-auth/pull/2168) Switch demo from Zeit Now to Heroku ([@marcoow](https://github.com/marcoow))
+  * [#2144](https://github.com/mainmatter/ember-simple-auth/pull/2144) Remove Travis badge from README ([@marcoow](https://github.com/marcoow))
+  * [#2141](https://github.com/mainmatter/ember-simple-auth/pull/2141) Add docs for rejections with server responses ([@marcoow](https://github.com/marcoow))
+  * [#2033](https://github.com/mainmatter/ember-simple-auth/pull/2033) Upgrade the dummy app to Bootstrap 4 ([@marcoow](https://github.com/marcoow))
+  * [#2018](https://github.com/mainmatter/ember-simple-auth/pull/2018) remove ember-getowner-polyfill dependency ([@marcoow](https://github.com/marcoow))
+  * [#2006](https://github.com/mainmatter/ember-simple-auth/pull/2006) Bump fastboot dependency ([@sdebarros](https://github.com/sdebarros))
+  * [#1670](https://github.com/mainmatter/ember-simple-auth/pull/1670) refactor(authentication-route-mixin): use router service ([@geekygrappler](https://github.com/geekygrappler))
+  * [#1737](https://github.com/mainmatter/ember-simple-auth/pull/1737) Fix NPM Deployments on New Tags ([@jayjayjpg](https://github.com/jayjayjpg))
+  * [#1679](https://github.com/mainmatter/ember-simple-auth/pull/1679) Fixes Handling of ClientID for Password Grant ([@ekristen](https://github.com/ekristen))
+  * [#1738](https://github.com/mainmatter/ember-simple-auth/pull/1738) fix: ember-try release channel array usage ([@Alonski](https://github.com/Alonski))
+  * [#1735](https://github.com/mainmatter/ember-simple-auth/pull/1735) build(travis): fix failing ember-release build step ([@jayjayjpg](https://github.com/jayjayjpg))
+  * [#1725](https://github.com/mainmatter/ember-simple-auth/pull/1725) Remove unnecessary calls to off() that trigger deprecation warnings ([@richard-viney](https://github.com/richard-viney))
+  * [#1722](https://github.com/mainmatter/ember-simple-auth/pull/1722) Fix deprecation warning when running with Ember 3.6 ([@richard-viney](https://github.com/richard-viney))
+  * [#1715](https://github.com/mainmatter/ember-simple-auth/pull/1715) maint - clarify ember-cli-qunit vs ember-qunit usage ([@MichalBryxi](https://github.com/MichalBryxi))
+  * [#1721](https://github.com/mainmatter/ember-simple-auth/pull/1721) TravisCI: Remove deprecated `sudo: false` option ([@Turbo87](https://github.com/Turbo87))
+  * [#1713](https://github.com/mainmatter/ember-simple-auth/pull/1713) Extend compatibility with ember-fetch ([@andreyfel](https://github.com/andreyfel))
+  * [#1718](https://github.com/mainmatter/ember-simple-auth/pull/1718) Improved Travis-CI config ([@mike-north](https://github.com/mike-north))
+  * [#1682](https://github.com/mainmatter/ember-simple-auth/pull/1682) Fixed case of `rootURL` config property in changelog ([@kevinansfield](https://github.com/kevinansfield))
+  * [#1666](https://github.com/mainmatter/ember-simple-auth/pull/1666) refactor(unauthenticated-route-mixin): Move redirection logic for thi… ([@geekygrappler](https://github.com/geekygrappler))
+  * [#1668](https://github.com/mainmatter/ember-simple-auth/pull/1668) Use modern syntax in README ([@quaertym](https://github.com/quaertym))
+  * [#1667](https://github.com/mainmatter/ember-simple-auth/pull/1667) UnauthenticatedRouteMixin: Remove reference to unused transition ([@geekygrappler](https://github.com/geekygrappler))
+  * [#1661](https://github.com/mainmatter/ember-simple-auth/pull/1661) Fixed doc error and file / class name inconsistancy in file oauth2-implicit-grant-callback-route-mixin.js ([@jfschaff](https://github.com/jfschaff))
+  * [#1657](https://github.com/mainmatter/ember-simple-auth/pull/1657) Get ember-try builds from ember-source-channel-url ([@mike-north](https://github.com/mike-north))
+  * [#1655](https://github.com/mainmatter/ember-simple-auth/pull/1655) Authenticated route: allow easier use w/o mixin ([@mike-north](https://github.com/mike-north))
+  * [#1656](https://github.com/mainmatter/ember-simple-auth/pull/1656) Fix linting situation ([@mike-north](https://github.com/mike-north))
+  * [#1627](https://github.com/mainmatter/ember-simple-auth/pull/1627) OAuth2Callback mixin de-entanglement ([@mike-north](https://github.com/mike-north))
+  * [#1650](https://github.com/mainmatter/ember-simple-auth/pull/1650) Improve tests ([@marcoow](https://github.com/marcoow))
+  * [#1649](https://github.com/mainmatter/ember-simple-auth/pull/1649) enable blueprint tests again ([@marcoow](https://github.com/marcoow))
+  * [#1648](https://github.com/mainmatter/ember-simple-auth/pull/1648) chore(package): update ember-resolver to version 5.0.1 ([@marcoow](https://github.com/marcoow))
+* `classic-test-app`, `ember-simple-auth`, `test-app`
+  * [#2573](https://github.com/mainmatter/ember-simple-auth/pull/2573) chore(deps): bump ember-try to 3.0.0 beta ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2572](https://github.com/mainmatter/ember-simple-auth/pull/2572) chore(deps): bump ember-cli-dependency-checker to 3.3.1 ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2571](https://github.com/mainmatter/ember-simple-auth/pull/2571) chore(deps): bump ember-fetch to 8.1.2 ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2545](https://github.com/mainmatter/ember-simple-auth/pull/2545) chore: install @ember/string in packages directly ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2537](https://github.com/mainmatter/ember-simple-auth/pull/2537) chore(deps): remove ember-export-application-global ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2530](https://github.com/mainmatter/ember-simple-auth/pull/2530) chore(deps): remove typescript-transform resolution ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2529](https://github.com/mainmatter/ember-simple-auth/pull/2529) chore(deps): remove cssstyle resolutions ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2528](https://github.com/mainmatter/ember-simple-auth/pull/2528) chore(deps): remove jsdom resolutions ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2512](https://github.com/mainmatter/ember-simple-auth/pull/2512) Upgrade torii devDependency to 1.0.0-beta.1 ([@Gaurav0](https://github.com/Gaurav0))
+  * [#2506](https://github.com/mainmatter/ember-simple-auth/pull/2506) chore: pin ember-qunit ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2487](https://github.com/mainmatter/ember-simple-auth/pull/2487) chore: remove ember-cli-pretender ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2486](https://github.com/mainmatter/ember-simple-auth/pull/2486) chore: use ember-cli-terser instead of uglify ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2350](https://github.com/mainmatter/ember-simple-auth/pull/2350) Upgrade to qunit 5 ([@candunaj](https://github.com/candunaj))
+  * [#2444](https://github.com/mainmatter/ember-simple-auth/pull/2444) chore: use ember-auto-import v2 in test apps ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2445](https://github.com/mainmatter/ember-simple-auth/pull/2445) chore: pin @ember/test-helpers ~2.7.0 ([@BobrImperator](https://github.com/BobrImperator))
+  * [#2266](https://github.com/mainmatter/ember-simple-auth/pull/2266) remove `tryInvoke` usage ([@bekzod](https://github.com/bekzod))
+* `ember-simple-auth`, `test-app`
+  * [#2297](https://github.com/mainmatter/ember-simple-auth/pull/2297) Run CI on latest Ember LTS releases ([@marcoow](https://github.com/marcoow))
+  * [#2207](https://github.com/mainmatter/ember-simple-auth/pull/2207) Fix CI ([@marcoow](https://github.com/marcoow))
+  * [#2184](https://github.com/mainmatter/ember-simple-auth/pull/2184) Convert to Yarn workspace ([@marcoow](https://github.com/marcoow))
+* `classic-test-app`, `ember-simple-auth`
+  * [#2292](https://github.com/mainmatter/ember-simple-auth/pull/2292) Drop ember-bootstrap dependency from classic test app ([@marcoow](https://github.com/marcoow))
+* `classic-test-app`, `test-app`
+  * [#2299](https://github.com/mainmatter/ember-simple-auth/pull/2299) dasherize engine name ([@marcoow](https://github.com/marcoow))
+
+
+*Cannot plan release until the above changes are labeled*.
